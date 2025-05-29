@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "kawavix_an_anime_woman_with_purple_paint_flowing_down_her_faced_99731097-b522-4536-b77c-aa8ef2a3d86b.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

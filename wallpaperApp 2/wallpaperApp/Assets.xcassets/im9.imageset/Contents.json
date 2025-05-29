@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "kawavix_black_and_white_style__demon_girl_in_her_20s_haughty_lo_9313878f-711e-4a3e-a487-7777ca3546ea.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

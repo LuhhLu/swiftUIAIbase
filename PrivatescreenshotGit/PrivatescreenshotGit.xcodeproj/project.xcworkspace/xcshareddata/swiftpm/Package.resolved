@@ -1,0 +1,15 @@
+{
+  "originHash" : "912b8daee421428deec173d15b1f755bb35f0727e3b7361b8e4aa233dac885e2",
+  "pins" : [
+    {
+      "identity" : "swiftui-unscreenshottable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/markiv/SwiftUI-Unscreenshottable.git",
+      "state" : {
+        "revision" : "cd8612f7239c4c5a1667759353b1815b39413079",
+        "version" : "1.1.1"
+      }
+    }
+  ],
+  "version" : 3
+}

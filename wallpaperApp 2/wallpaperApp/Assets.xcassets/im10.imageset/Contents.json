@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "kawavix_blue_color_liquid___a_female_image_with_a_glowing_mouth_36610ddb-51f1-44dd-82c5-842b7038f541.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

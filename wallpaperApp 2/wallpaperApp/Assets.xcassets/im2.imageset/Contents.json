@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "kawavix_a_cartoon_girl_with_long_hair_wearing_black_pants_and_a_b846835e-0c21-48db-840b-a6596759b765.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

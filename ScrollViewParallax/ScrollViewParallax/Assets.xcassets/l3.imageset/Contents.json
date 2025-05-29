@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "kawavix_a_painting_of_an_open_area_with_mountains_and_a_river_i_2da1e569-f5b5-402d-883f-4352abe20873.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

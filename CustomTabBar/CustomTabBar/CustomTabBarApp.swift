@@ -1,0 +1,17 @@
+//
+//  CustomTabBarApp.swift
+//  CustomTabBar
+//
+//  Created by Luhh Lu on 5/15/25.
+//
+
+import SwiftUI
+
+@main
+struct CustomTabBarApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}

@@ -1,0 +1,17 @@
+//
+//  ContentViewApp.swift
+//  ContentView
+//
+//  Created by Luhh Lu on 5/15/25.
+//
+
+import SwiftUI
+
+@main
+struct ContentViewApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
